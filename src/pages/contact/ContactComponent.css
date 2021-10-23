@@ -18,6 +18,7 @@
 .address-heading-div {
   display: flex;
   margin-top: 80px;
+  flex-direction: row-reverse;
 }
 
 .blog-heading-div > * {
